@@ -1,8 +1,8 @@
 
 Brief overview:
 This was a data autogenerator for an API, initially supporting creating test users for local testing, utilised within the context of an initial MVP for adding automated tests to a system which had very little automated testing working.
-Purposes: users and auto payload detection was used for locally testing for critical bugs in the system, with the intention of integrating it into the deployment pipeline as a first phase of testing.
 
+Purposes: users and auto payload detection (currently supporting user and agent creation on the API it utilised) was used for locally testing for critical bugs in the system, with the intention of integrating it into the deployment pipeline as a first phase of testing.
 
 Final goal: - generating user data at scale
             - automated testing using this user generator as a basis
