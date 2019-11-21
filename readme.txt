@@ -57,8 +57,8 @@ Please note:
 
 Very Important Notes:
 
-This test suite I set up was run in a test environment only and with several constraints in less than optimal dev conditions (ie no automated testing/deployment/environments) which I did not agree with and which this project in fact is part of the first steps in rectifying.
-The extensive commenting hopefully makes this clear.
+This test suite I set up was run in a test environment only and with several constraints in less than optimal dev conditions (ie no automated testing/deployment/environments and utilising python 2.7) which I did not agree with, and which had several known bugs in it which the testing had to work around (hence all the Todos) and some of which this project in fact is part of the first steps in rectifying.
+The extensive commenting hopefully makes this clear. 
 
 This is not intended to exhaustively test any system.
 
