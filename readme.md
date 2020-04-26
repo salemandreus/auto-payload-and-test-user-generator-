@@ -1,3 +1,4 @@
+# Auto Payload Generator
 
 Brief overview:
 This was a data autogenerator for an API, initially supporting creating test users for local testing, utilised within the context of an initial MVP for adding automated tests to a system which had very little automated testing working.
